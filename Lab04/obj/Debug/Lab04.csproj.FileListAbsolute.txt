@@ -1,0 +1,17 @@
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\bin\Debug\Lab04.exe.config
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\bin\Debug\Lab04.exe
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\bin\Debug\Lab04.pdb
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\obj\Debug\Lab04.Form1.resources
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\obj\Debug\Lab04.exe
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\obj\Debug\Lab04.pdb
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\obj\Debug\Lab04.MFaculty.resources
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\obj\Debug\Lab04.Search.resources
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\bin\Debug\EntityFramework.dll
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\bin\Debug\EntityFramework.SqlServer.dll
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\bin\Debug\EntityFramework.xml
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\bin\Debug\EntityFramework.SqlServer.xml
+D:\Workspace\laptrinhwindow\2280600252_ToanBan\Lab04\obj\Debug\Lab04.csproj.Up2Date
